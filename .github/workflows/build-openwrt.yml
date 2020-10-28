@@ -19,7 +19,7 @@ on:
     paths:
       - '.config'
   watch:
-  types: started
+    types: started
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
